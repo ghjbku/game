@@ -1,5 +1,5 @@
 #include <iostream>
-#include "window.h"
+//#include "window.h"
 #include <SDL2/SDL.h>
 
 using namespace std;
